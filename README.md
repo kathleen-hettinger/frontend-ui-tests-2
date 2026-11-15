@@ -1,2 +1,1 @@
-# frontend-ui-tests-2
-Automated deployment via Fleet Hub
+# frontend-ui-tests-1
